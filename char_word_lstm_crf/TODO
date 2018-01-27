@@ -1,0 +1,9 @@
+# TODO
+
+* dynamic load shuffle batch data
+    * TF 实现
+    * fuel 实现
+* multi task learning
+    * 一个通用函数
+* unsupervised for char and word imbedding
+    * 设计语言模型&非监督的网络
